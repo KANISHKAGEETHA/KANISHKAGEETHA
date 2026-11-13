@@ -27,7 +27,7 @@
 
 ### 🌐 Frameworks, Platforms & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,flask,androidstudio,flutter,sqlite,mysql,firebase,html,css,git,github,docker" alt="Android, Flutter, SQLite, MySQL, Firebase, HTML, CSS, Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,sqlite,mysql,firebase,html,css,git,github" alt="Android, Flutter, SQLite, MySQL, Firebase, HTML, CSS, Git, GitHub" />
   <img src="https://img.shields.io/badge/REST_APIs-222222?style=for-the-badge" alt="REST APIs" />
 </p>
 
