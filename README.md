@@ -91,15 +91,4 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=KANISHKAGEETHA&show_icons=true&theme=algolia&hide_border=true" alt="Kanishka's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KANISHKAGEETHA&layout=compact&theme=algolia&hide_border=true" alt="Top languages" />
-</div>
-
----
-
 <p align="center"><i>“I like problems that need clear thinking.”</i></p>
